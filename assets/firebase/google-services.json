@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757309647173",
+    "project_id": "avebefsm",
+    "storage_bucket": "avebefsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757309647173:android:d6d52ef8ad7e112803b62c",
+        "android_client_info": {
+          "package_name": "com.avebe.fsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757309647173-4oci56prbpukufdlc2kmp38g1ceo19au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3NZCWsOHY2R7PKj1UIPNVnyvWB43Rikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757309647173-4oci56prbpukufdlc2kmp38g1ceo19au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
